@@ -1,0 +1,445 @@
+{
+  "event_id": "efb32a09-2676-40cb-96d9-a8fe46f43aec",
+  "source_id": "1e71545f-469f-413b-9972-b3df4a5b81ec",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 15,
+      "annotation": [
+        {
+          "text": "The Permian Basin is an area in Western Texas and Southeastern New Mexico covering more than 86,000 square miles. It accounts for 40% of the nation's oil and in 2020, was producing over 4 million barrels of oil a day. Environment Texas travelled the area speaking to residents and local experts to find out what it was like to live in the oil capital of Texas."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        }
+      ],
+      "uuid": "e7bf1f30-1177-4257-ac4b-9aecd033222b"
+    },
+    {
+      "start_time": 15,
+      "end_time": 30,
+      "annotation": [
+        {
+          "text": "One such expert was Dr. Edward Books. Dr. Brooks received his medical training at Texas Tech University and Harvard University. He is a frequent speaker and consultant on airway inflammation caused by bacteria and air pollution as they relate to asthma. He actively investigates new drug targets for asthma treatment, and has written over 50 journal articles, book chapters, and reviews in immunology. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        }
+      ],
+      "uuid": "f6e1d923-bf2c-47e6-876e-c719c7cb61cb"
+    },
+    {
+      "start_time": 30,
+      "end_time": 51,
+      "annotation": [
+        {
+          "text": "The the Airway irritation certainly can result from multiple different uh contaminants coming from petrochemical refineries, and then there's more subtle effects such as Benzene which increases the risk of leukemia. As the toxicologists will say..."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "932d04f4-7c95-43ce-b6f5-18cb120251e9"
+    },
+    {
+      "start_time": 51,
+      "end_time": 68,
+      "annotation": [
+        {
+          "text": "\"it's a lifetime exposure,\" in other words: opening the doors and windows, you know, you you help it-- well not not if it's high outside--but, you know, you clear it out. But you've been exposed to that, so it's accumulative, you know?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "210aed2e-10b9-4d55-a8c9-89bd4555fa92"
+    },
+    {
+      "start_time": 68,
+      "end_time": 86,
+      "annotation": [
+        {
+          "text": "So if you live in an area your whole life, and a lot of low-income areas around refineries, you know, people have don't have a whole lot of choices with uh their income levels and low income housing in those areas, get a lifetime exposure. And and this has been shown over in multiple studies. The closer you live to a petrochemical plant the higher the rates of leukemia and lymphoma."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "95a238fe-25c9-4325-8403-d79bc95fdab9"
+    },
+    {
+      "start_time": 86,
+      "end_time": 134,
+      "annotation": [
+        {
+          "text": "And then there's more subtle effects such as Benzene which increases the risk of leukemia, and a the toxicologists will say it's a lifetime exposure. In other words it's just clear opening the doors and windows, you know, you you help it-- well not not if it's high outside--but, you know, you clear it out. But you've been exposed to that, so it's accumulative, you know? So if you live in an area your whole life, and a lot of low-income areas around refineries, you know, people have don't have a whole lot of choices with uh their income levels and low income housing in those areas, get a lifetime exposure. And and this has been shown over in multiple studies. The closer you live to a petrochemical plant the higher the rates of leukemia."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "48042404-9e93-43bd-938a-65c3f9bbf7ac"
+    },
+    {
+      "start_time": 137,
+      "end_time": 142,
+      "annotation": [
+        {
+          "text": "Would you be willing to live next to a refinery or one of these high production areas?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael Lewis"
+        }
+      ],
+      "uuid": "5f6fb9f3-023c-4689-a90a-6e97004d5da1"
+    },
+    {
+      "start_time": 142,
+      "end_time": 161,
+      "annotation": [
+        {
+          "text": "Uh, hell no! I have a lot of knowledge about it and I know there are health risks. I would never raise my children in that in that environment either, but that goes to the environmental justice: I can afford not to."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "e0e2cf2b-64a0-4dd0-adff-621e9b36aeaf"
+    },
+    {
+      "start_time": 161,
+      "end_time": 181,
+      "annotation": [
+        {
+          "text": "I pay attention to the air quality, and when I left Galveston, even though Galveston relatively speaking had prevailing winds from the south and we weren't as impacted by the refineries in the winter, wind comes the other direction and you know we would joke just like:"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "99e38fd5-8d69-45f9-bc8e-ad60f3c2ad7c"
+    },
+    {
+      "start_time": 181,
+      "end_time": 188,
+      "annotation": [
+        {
+          "text": "\"Hmm, Texas city is here today,\" or you know or \"Chocolate Bayou\" or you know wherever the wind was coming from."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "0988c7d6-0b3d-4cf3-93df-4af77604c0d8"
+    },
+    {
+      "start_time": 188,
+      "end_time": 204,
+      "annotation": [
+        {
+          "text": "Sign our petition below to tell the EPA to rein in global warming pollution from oil and gas drilling!"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        }
+      ],
+      "uuid": "432101bc-b434-46cc-8d63-dc19aa2c1a5f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Video Link"
+        }
+      ],
+      "tags": [],
+      "uuid": "3a7b93e5-5be9-4ad6-9fdf-2e12a0fcbab5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "\nVideo Link\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "836f23b7-32e7-4f61-8104-990b89e0793f"
+    },
+    {
+      "start_time": 1,
+      "end_time": 15,
+      "annotation": [
+        {
+          "text": "The Permian Basin is an area in Western Texas and Southeastern New Mexico covering more than 86,000 square miles. It accounts for 40% of the nation's oil and in 2020, was producing over 4 million barrels of oil a day. Environment Texas travelled the area speaking to residents and local experts to find out what it was like to live in the oil capital of Texas."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        }
+      ],
+      "uuid": "57bf717a-9cf1-479d-917c-946107530fc5"
+    },
+    {
+      "start_time": 15,
+      "end_time": 30,
+      "annotation": [
+        {
+          "text": "One such expert was Dr. Edward Books. Dr. Brooks received his medical training at Texas Tech University and Harvard University. He is a frequent speaker and consultant on airway inflammation caused by bacteria and air pollution as they relate to asthma. He actively investigates new drug targets for asthma treatment, and has written over 50 journal articles, book chapters, and reviews in immunology. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        }
+      ],
+      "uuid": "15c7f261-1790-462d-8bff-067bb3ce036e"
+    },
+    {
+      "start_time": 30,
+      "end_time": 51,
+      "annotation": [
+        {
+          "text": "The the Airway irritation certainly can result from multiple different uh contaminants coming from petrochemical refineries, and then there's more subtle effects such as Benzene which increases the risk of leukemia. As the toxicologists will say..."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "5bf64112-c11e-4162-8fbb-4bd52c442162"
+    },
+    {
+      "start_time": 51,
+      "end_time": 68,
+      "annotation": [
+        {
+          "text": "\"it's a lifetime exposure,\" in other words: opening the doors and windows, you know, you you help it-- well not not if it's high outside--but, you know, you clear it out. But you've been exposed to that, so it's accumulative, you know?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "4eeb0839-b52a-4d12-b713-fb412ec0d0ba"
+    },
+    {
+      "start_time": 68,
+      "end_time": 86,
+      "annotation": [
+        {
+          "text": "So if you live in an area your whole life, and a lot of low-income areas around refineries, you know, people have don't have a whole lot of choices with uh their income levels and low income housing in those areas, get a lifetime exposure. And and this has been shown over in multiple studies. The closer you live to a petrochemical plant the higher the rates of leukemia and lymphoma."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "abc70655-2218-4d4f-8d2a-da660f0ae1b0"
+    },
+    {
+      "start_time": 86,
+      "end_time": 134,
+      "annotation": [
+        {
+          "text": "And then there's more subtle effects such as Benzene which increases the risk of leukemia, and a the toxicologists will say it's a lifetime exposure. In other words it's just clear opening the doors and windows, you know, you you help it-- well not not if it's high outside--but, you know, you clear it out. But you've been exposed to that, so it's accumulative, you know? So if you live in an area your whole life, and a lot of low-income areas around refineries, you know, people have don't have a whole lot of choices with uh their income levels and low income housing in those areas, get a lifetime exposure. And and this has been shown over in multiple studies. The closer you live to a petrochemical plant the higher the rates of leukemia."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "44cada92-eb6f-4704-a7f4-637e8411eb88"
+    },
+    {
+      "start_time": 137,
+      "end_time": 142,
+      "annotation": [
+        {
+          "text": "Would you be willing to live next to a refinery or one of these high production areas?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael Lewis"
+        }
+      ],
+      "uuid": "7a781a43-1d8b-458d-a68e-e5ba929bdafb"
+    },
+    {
+      "start_time": 142,
+      "end_time": 161,
+      "annotation": [
+        {
+          "text": "Uh, hell no! I have a lot of knowledge about it and I know there are health risks. I would never raise my children in that in that environment either, but that goes to the environmental justice: I can afford not to."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "f2a5aeda-1efb-44f0-8e8c-f107730c84f5"
+    },
+    {
+      "start_time": 161,
+      "end_time": 181,
+      "annotation": [
+        {
+          "text": "I pay attention to the air quality, and when I left Galveston, even though Galveston relatively speaking had prevailing winds from the south and we weren't as impacted by the refineries in the winter, wind comes the other direction and you know we would joke just like:"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "abfb5632-7117-48db-892c-a43b74ca66ba"
+    },
+    {
+      "start_time": 181,
+      "end_time": 188,
+      "annotation": [
+        {
+          "text": "\"Hmm, Texas city is here today,\" or you know or \"Chocolate Bayou\" or you know wherever the wind was coming from."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        }
+      ],
+      "uuid": "ed2a01f5-c7c4-455f-b1dd-8ddeba75d514"
+    },
+    {
+      "start_time": 188,
+      "end_time": 204,
+      "annotation": [
+        {
+          "text": "Sign our petition below to tell the EPA to rein in global warming pollution from oil and gas drilling!"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        }
+      ],
+      "uuid": "62c27621-c4c5-4a9f-8ddf-73be81cddb4f"
+    }
+  ]
+}

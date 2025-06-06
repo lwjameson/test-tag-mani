@@ -24,11 +24,33 @@
     "auto_populate_home_page": false,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael Lewis"
+        }
+      ]
     },
     "created_at": "2025-06-06T18:30:25.458Z",
-    "updated_at": "2025-06-06T18:30:25.458Z",
+    "updated_at": "2025-06-06T18:30:47.965Z",
     "generate_pages_site": true
   },
   "annotations": {},
